@@ -12,8 +12,8 @@ export default function ChordMachine({
     <svg
       version="1.1"
       xmlns="http://www.w3.org/2000/svg"
-      width="1400"
-      height="392"
+      width="100%"
+      height="100%"
       viewBox="0 0 1400 392"
       stroke="#FCFCFC"
       strokeWidth="2"
